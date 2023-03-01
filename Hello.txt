@@ -11,5 +11,5 @@ Hello git!
 Changed
 Exchange!
 hOTfIX tETS Master test
-HHHHHHHHHHH
-Master test
+hOTfIX tETS
+HHHHHHHHHHH HotTest
